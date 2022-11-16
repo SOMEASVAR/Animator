@@ -67,8 +67,9 @@ public class IdleToCrouch : MonoBehaviour
 ```
 
 ## Output:
-## Idl![idle](https://user-images.githubusercontent.com/93434149/202175624-e49a87e1-10ca-49a9-8e6d-20ca4eab574a.jpg)
-e position:
+## Idle position:
+![idle](https://user-images.githubusercontent.com/93434149/202175624-e49a87e1-10ca-49a9-8e6d-20ca4eab574a.jpg)
+
 
 ## Crouch position:
 ![Screenshot (113)](https://user-images.githubusercontent.com/93434149/202175681-b0495939-2b3f-41b9-b95b-84e74de35ecf.png)
